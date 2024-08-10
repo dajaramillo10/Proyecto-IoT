@@ -1,4 +1,4 @@
-Este proyecto consiste en la implementación de un sistema IoT para la monitorización ambiental en la Reserva Natural Cerro Pinel en Florencia Caquetá. El código se encarga de recopilar datos de diversos sensores y enviarlos a la plataforma ThingSpeak para su análisis.
+Este proyecto consiste en la implementación de una arquitectura IoT para la monitorización ambiental de cultivos de cúrcuma en la Reserva Natural Cerro Pinel en Florencia Caquetá. El código se encarga de recopilar datos de diversos sensores y enviarlos a la plataforma ThingSpeak para su análisis.
 
 -Requisitos
 

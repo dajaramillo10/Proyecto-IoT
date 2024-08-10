@@ -108,4 +108,7 @@ void medicion() {
   ThingSpeak.setField(4, lux2);
   ThingSpeak.setField(5, soundValue);
   ThingSpeak.setField(6, valorLluvia);
+
+  //Desarrollado por: Daniel Esteban Jaramillo Idrobo
+  //Estudiante de Ingeniería de Sistemas
 }
